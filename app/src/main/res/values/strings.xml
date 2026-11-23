@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pul tanuvchi</string>
+
+    <string name="starting">Kamera ishga tushmoqda…</string>
+    <string name="ready">Kamera tayyor. Pulni kameraga 15–20 santimetr masofadan tuting.</string>
+    <string name="paused">Toʻxtatildi. Davom ettirish tugmasini bosing.</string>
+    <string name="resumed">Davom etmoqda. Pulni kameraga tuting.</string>
+    <string name="probably">Ehtimol,</string>
+    <string name="nothing_to_repeat">Hozircha natija yʻq.</string>
+
+    <string name="hint_none">Pul kʻrinmayapti. Kamerani pulga 15–20 santimetr yaqinlashtiring.</string>
+    <string name="hint_found">Pul topildi, lekin qiymati aniq oʻqilmadi. Pulni tekis ushlab, sekin aylantiring.</string>
+    <string name="hint_several">Bir nechta pul kʻrinmoqda. Pullarni bittadan kʻrsating.</string>
+    <string name="hint_dark">Qorongʻi. Yoritishni yaxshilang yoki chiroqni yoqing.</string>
+    <string name="torch_auto">Qorongʻi, shuning uchun chiroq yoqildi.</string>
+    <string name="no_flash">Bu telefonda chiroq yʻq.</string>
+
+    <string name="camera_denied">Kameraga ruxsat berilmadi. Ilova ruxsatsiz ishlay olmaydi. Qayta urinish uchun Takrorlash tugmasini bosing.</string>
+    <string name="camera_error">Kamerani ishga tushirib bʻlmadi.</string>
+
+    <string name="btn_repeat">Takrorlash</string>
+    <string name="btn_torch_on">Chiroqni yoqish</string>
+    <string name="btn_torch_off">Chiroqni oʻchirish</string>
+    <string name="btn_pause">Toʻxtatish</string>
+    <string name="btn_resume">Davom ettirish</string>
+    <string name="btn_menu">Menyu</string>
+    <string name="close">Yopish</string>
+
+    <string name="menu_title">Menyu</string>
+    <string name="menu_gallery">Galereyadan rasm tanlash</string>
+    <string name="menu_voice_on">Ilova ovozini yoqish</string>
+    <string name="menu_voice_off">Ilova ovozini oʻchirish</string>
+    <string name="menu_alphabet">Alifbo: hozirgi / yangi</string>
+    <string name="menu_about">Dastur haqida</string>
+
+    <string name="voice_on_msg">Ilova ovozi yoqildi.</string>
+    <string name="voice_off_msg">Ilova ovozi oʻchirildi.</string>
+    <string name="alphabet_new_on">Yangi alifbo yoqildi. Matnlar endi ö, ğ, ş, ç harflari bilan yoziladi.</string>
+    <string name="alphabet_old_on">Hozirgi alifbo yoqildi. Matnlar endi oʻ, gʻ, sh, ch bilan yoziladi.</string>
+
+    <string name="gallery_working">Rasm tekshirilmoqda…</string>
+    <string name="gallery_none">Rasmda pul qiymati aniqlanmadi.</string>
+    <string name="gallery_error">Rasmni ochib bʻlmadi.</string>
+
+    <string name="about_text">Pul tanuvchi kamera orqali Oʻzbekiston banknotalarining qiymatini oʻqib, ekran oʻquvchi oʻqiy oladigan matn sifatida chiqaradi.\n\nHozirgi banknotalardagi yozuvlar ham, yangi alifbodagi (ö, ğ, ş, ç) yozuvlar ham taniladi.\n\nMuhim: dastur pulning haqiqiy yoki soxta ekanini tekshirmaydi va xato qilishi mumkin. Muhim hisob-kitoblarda ishonchli odamdan tasdiqlatib oling.\n\nMaslahat: pulni tekis ushlang, yaxshi yoritilgan joyda kameraga 15–20 santimetr masofadan tuting, qiymat yozilgan burchakni kʻrsating.</string>
+</resources>
